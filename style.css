@@ -195,3 +195,13 @@
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
+
+
+
+        .project-item {
+            transition: all 0.4s ease;
+        }
+
+        .hidden-project {
+            display: none;
+        }
